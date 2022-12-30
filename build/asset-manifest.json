@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ef873c37.chunk.css",
+    "main.js": "./static/js/main.24cdeffb.chunk.js",
+    "main.js.map": "./static/js/main.24cdeffb.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8b5b94fb.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8b5b94fb.js.map",
+    "static/js/2.1b145cfc.chunk.js": "./static/js/2.1b145cfc.chunk.js",
+    "static/js/2.1b145cfc.chunk.js.map": "./static/js/2.1b145cfc.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ef873c37.chunk.css.map": "./static/css/main.ef873c37.chunk.css.map",
+    "static/js/2.1b145cfc.chunk.js.LICENSE.txt": "./static/js/2.1b145cfc.chunk.js.LICENSE.txt",
+    "static/media/chevron-down.371c0b7e.svg": "./static/media/chevron-down.371c0b7e.svg",
+    "static/media/ethereumLogo.a1b9f99b.png": "./static/media/ethereumLogo.a1b9f99b.png",
+    "static/media/uniswapLogo.b1166848.png": "./static/media/uniswapLogo.b1166848.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b5b94fb.js",
+    "static/js/2.1b145cfc.chunk.js",
+    "static/css/main.ef873c37.chunk.css",
+    "static/js/main.24cdeffb.chunk.js"
+  ]
+}
